@@ -1,0 +1,8 @@
+---
+title: "Data Science Project Visualizations"
+echo: false
+freeze: auto
+execute: 
+    warning: false 
+    message: false
+---

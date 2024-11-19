@@ -1,0 +1,8 @@
+---
+title: "Statistics Projects"
+echo: false
+freeze: auto
+execute: 
+    warning: false 
+    message: false
+---
