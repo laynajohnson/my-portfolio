@@ -10,10 +10,12 @@ website:
         text: Home
       - text: Projects
         menu:
-          - text: Statistics
+          - text: Statistics Projects
             href: statistics.qmd
-          - text:  Data Science
+          - text: Data Science Projects
             href: data_visualizations.qmd
+          - text: GIS Projects
+            href: gis_projects.qmd
     right:
       - icon: envelope
         href: "mailto:laymariaj@gmail.com"
